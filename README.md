@@ -1,6 +1,6 @@
 # SD_TP1
 
-Repositório dedicado apenas à cadeirs sistemas distribuídos do curso de engenharia informática da UBI.
+Repositório dedicado apenas à cadeira sistemas distribuídos do curso de engenharia informática da UBI.
 
 # TestePratico
 
