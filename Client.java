@@ -64,6 +64,9 @@ public class Client extends java.rmi.server.UnicastRemoteObject implements Clien
                 case 5:
                     h.list((Client2) c);
                     break;
+                    
+                case 0:
+                    System.exit(0);
 
 
                 default:
